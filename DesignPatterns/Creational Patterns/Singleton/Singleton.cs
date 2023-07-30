@@ -27,7 +27,7 @@ public sealed class Singleton
     }
 }
 
-class ProgramSingleton
+/*class ProgramSingleton
 {
     static void Main(string[] args)
     {
@@ -44,4 +44,4 @@ class ProgramSingleton
             Console.WriteLine("Singleton failed, variables contain different instances.");
         }
     }
-}
+}*/
