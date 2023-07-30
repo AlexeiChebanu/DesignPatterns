@@ -2,7 +2,7 @@
 
 namespace DesignPatterns.Prototype.Conceptual;
 
-class ProgramPrototype
+/*class ProgramPrototype
 {
     static void Main(string[] args)
     {
@@ -46,4 +46,4 @@ class ProgramPrototype
             p.Name, p.Age, p.BirthDate);
         Console.WriteLine("      ID#: {0:d}", p.IdInfo.IdNumber);
     }
-}
+}*/
