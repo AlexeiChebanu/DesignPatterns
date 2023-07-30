@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.Creational_Patterns.Factory
+/*namespace DesignPatterns.Creational_Patterns.Factory
 {
     class ProgramFactory
     {
@@ -13,4 +13,4 @@ namespace DesignPatterns.Creational_Patterns.Factory
             new Client().Main();
         }
     }
-}
+}*/
