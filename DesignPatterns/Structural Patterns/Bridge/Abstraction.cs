@@ -33,7 +33,7 @@ class ExtendedAbstraction : Abstraction
     }
 }
 
-class ProgramBridge
+/*class ProgramBridge
 {
     static void Main(string[] args)
     {
@@ -50,4 +50,4 @@ class ProgramBridge
         abstraction = new ExtendedAbstraction(new ConcreteImplementationB());
         client.ClientCode(abstraction);
     }
-}
+}*/
