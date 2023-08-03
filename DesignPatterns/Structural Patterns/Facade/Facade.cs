@@ -81,7 +81,7 @@ class Client
     }
 }
 
-class ProgramFaacade
+/*class ProgramFaacade
 {
     static void Main(string[] args)
     {
@@ -94,5 +94,5 @@ class ProgramFaacade
         Facade facade = new Facade(subsystem1, subsystem2);
         Client.ClientCode(facade);
     }
-}
+}*/
 
