@@ -14,7 +14,7 @@ public class Client
     }
 }
 
-class ProgramProxy
+/*class ProgramProxy
 {
     static void Main(string[] args)
     {
@@ -30,4 +30,4 @@ class ProgramProxy
         Proxy proxy = new Proxy(realSubject);
         client.ClientCode(proxy);
     }
-}
+}*/
